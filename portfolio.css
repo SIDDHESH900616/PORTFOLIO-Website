@@ -464,10 +464,10 @@ nav ul li a:hover {
     width: 100%;
     padding: 12px;
     margin-bottom: 20px;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(0, 0, 0, 0.1);
     border: 1px solid #FF6F61; /* Updated to coral */
     border-radius: 8px;
-    color: #F5F5F5; /* Updated text color */
+    color: #000000; /* Updated text color */
     font-size: 1em;
     font-weight: 400;
     transition: border-color 0.3s, box-shadow 0.3s;

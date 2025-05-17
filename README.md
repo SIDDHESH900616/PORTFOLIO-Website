@@ -1,0 +1,1 @@
+A personal portfolio website to showcase my work, projects, skills, and experience. Built with a focus on performance, accessibility, and responsive design, this site serves as a digital resume and an online presence for potential employers, collaborators, and clients
